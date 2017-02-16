@@ -1,0 +1,36 @@
+#products_box
+{
+	
+	margin-left:30px;
+	margin-bottom:10px;
+}
+
+#single_product
+{
+	float:left;
+	margin-left:30px;
+	padding:10px;
+}
+
+.content_wrapper{
+	
+	height:auto;
+	margin:auto;
+}
+
+#content_area{
+	height:auto;
+	float:right;
+}
+
+.main_wrapper{
+	width:1000px;
+	height:auto;/*It will manage up to how many contents are available */
+	margin:auto;/*It will be centered aligned*/
+	background:#333;
+}
+.header_wrapper{
+	width:1000px;
+	height:100px;
+	margin:auto;
+}
